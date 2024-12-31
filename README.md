@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/735cf878-c5a5-4351-ba34-96727927b820" alt="Project Logo" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/7aa79a13-09cb-4e4d-bfd3-9bc34a0fa279" alt="Project Logo" width="200" height="200">
 </div>
 
 #     QUITHABITui
