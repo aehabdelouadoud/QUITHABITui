@@ -35,12 +35,12 @@ impl App {
     /// - <https://docs.rs/ratatui/latest/ratatui/widgets/index.html>
     /// - <https://github.com/ratatui/ratatui/tree/master/examples>
     fn draw(&mut self, frame: &mut Frame) {
-        let title = Line::from("Ratatui Simple Template")
+        let title = Line::from("QUITHABITui")
             .bold()
             .blue()
             .centered();
-        let text = "Hello, Ratatui!\n\n\
-            Created using https://github.com/ratatui/templates\n\
+        let text = "Let's get desciplinized!\n\n\
+            https://github.com/aehabdelouadoud/QUITHABITui\n\
             Press `Esc`, `Ctrl-C` or `q` to stop running.";
         frame.render_widget(
             Paragraph::new(text)
