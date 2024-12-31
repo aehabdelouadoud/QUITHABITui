@@ -4,7 +4,7 @@
 </div>
 
 #     QUITHABITui
-> [NOTE]: Work in progress! hit the star and back again
+> **[NOTE]:** Work in progress! Hit the star and check back again.
 
 Let's fight bad habits!!!
 
