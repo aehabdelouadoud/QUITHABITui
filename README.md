@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/729e36cd-6972-41cc-b0fa-a417721ae51b" alt="Icon description" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/ee9c93ae-9361-4b75-a83f-655fe2a6974f" alt="Icon description" width="300" height="300">
 
 #     QUITHABITui
 
