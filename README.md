@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/a6603ffe-a10d-4c3d-9dcd-931c23ffb613" alt="Icon description" width="300" height="300">
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fb33228c-3354-4e81-917e-f3e27138b89c" alt="Project Logo" width="150" height="150">
+</div>
 
 #     QUITHABITui
 
