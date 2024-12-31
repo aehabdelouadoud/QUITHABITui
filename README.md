@@ -1,3 +1,6 @@
+![QUITHABITui](https://github.com/user-attachments/assets/729e36cd-6972-41cc-b0fa-a417721ae51b)
+
+
 #     QUITHABITui
 
 Let's fight bad habits!!!
