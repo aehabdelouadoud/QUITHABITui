@@ -1,5 +1,4 @@
-![QUITHABITui](https://github.com/user-attachments/assets/729e36cd-6972-41cc-b0fa-a417721ae51b)
-
+<img src="[path/to/your/icon.svg](https://github.com/user-attachments/assets/729e36cd-6972-41cc-b0fa-a417721ae51b)" alt="Icon description" width="50" height="50">
 
 #     QUITHABITui
 
