@@ -1,6 +1,7 @@
 pub use app::App;
 
 pub mod app;
+mod random_quote;
 
 fn main() -> color_eyre::Result<()> {
     color_eyre::install()?;
