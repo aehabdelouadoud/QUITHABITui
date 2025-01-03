@@ -17,7 +17,7 @@ impl Quote {
         "Hello World".to_string()
     } */
     // Method to convert Quote to a string
-    pub fn to_string(&self) -> String {
+    pub fn display(&self) -> String {
         format!("\"{}\" - {}", self.quote, self.author)
     }
 }

@@ -38,11 +38,11 @@ impl App {
     fn draw(&mut self, frame: &mut Frame) {
         let title = Line::from("quitabitui").bold().blue().centered();
         let text = match random_quote::get_random_quote() {
-            Err(what) => panic!("Err"),
+            Err(what) => panic!("{}", what),
             Ok(quote) => quote,
         };
         frame.render_widget(
-            Paragraph::new(text.to_string())
+            Paragraph::new(text.display())
                 .block(Block::bordered().title(title))
                 .centered(),
             frame.area(),
